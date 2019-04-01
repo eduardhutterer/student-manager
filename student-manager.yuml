@@ -1,0 +1,2 @@
+[Student]-(View Details),(View Details)>(Login),(Login)<(invalid credentials), [Student]-(View Grades),(View Grades)>(Login), [Teacher]-(View Students),(View Students)>(Login), [Teacher]-(Add student),(Add student)>(Login), [Teacher]-(Add student),(Add student)<(Already enrolled), [Teacher]-(Add grades),(Add grades)>(Login),
+[Admin]-(Create accs),(Create accs)<(already exists), [Admin]-(Add subject)
